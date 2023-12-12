@@ -1,1 +1,1 @@
-##Course Schedule App
+Course Schedule App
